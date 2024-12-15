@@ -7,6 +7,7 @@ public class Tester {
 		WishMessageGenerator generator=new WishMessageGenerator();
 		generator.generate("shreyash");
 		System.out.println("added code by ajay");
+		System.out.println("added to branch by ajay");
 	}
 
 }
